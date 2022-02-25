@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 mithun is practicing
 amar aws training
+=======
+replacing mithun aws training
+>>>>>>> branch3
